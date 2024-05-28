@@ -1,5 +1,5 @@
 - 👋 hi, i’m @shiv-sbaq!
 - 👀 interests: deep learning, complexity theory, algorithms 
 - 🌱 working on: ai/ml at sandbox-aq 
-- 📫 email: svk2118 (at) columbia (dot) edu
+- 📫 email: shiv.kampani (at) sandboxquantum (dot) com
 - 😄 pronouns: he/him
